@@ -1,2 +1,2 @@
-# TP Collaboration Git 
-Bienvunue dans notre projet Git.
+# TP Collaboration Git
+Bienvenue dans le projet de l'etudiant A.
